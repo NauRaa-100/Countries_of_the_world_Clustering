@@ -94,4 +94,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Enjoy clustering countries around the world! 
+Enjoy clustering countries around the world! 
